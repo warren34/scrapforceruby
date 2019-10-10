@@ -1,1 +1,1 @@
-First scraping ever with Ruby 2.6.3 and Nokogiri
+First scraping force ruby gems nokogiri
